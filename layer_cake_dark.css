@@ -49,7 +49,7 @@ html {
 body {
 	width: 100%;
 	background-color: var(--background-color);
-	font-family: tahoma, helvetica, sans-serif;
+	font-family: Noto Sans JP, tahoma, helvetica, sans-serif;
 	font-size: 9pt;
 	color: var(--text-color);
 	min-width: 850px;
